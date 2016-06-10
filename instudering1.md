@@ -1,6 +1,6 @@
 ###1. Vad innebär vård och omsorg?
-Vård (d.v.s. sjukvård) är mer tekniskt avancerad än omsorg. Omsorg är mer vardagligt och bedrivs ofta i hemmet eller en 
-hemliknande miljö. https://sv.wikipedia.org/wiki/Omsorg
+Vård (d.v.s. [sjukvård](https://sv.wikipedia.org/wiki/Sjukv%C3%A5rd)) är mer tekniskt avancerad än omsorg.
+[Omsorg](https://sv.wikipedia.org/wiki/Omsorg) är mer vardagligt och bedrivs ofta i hemmet eller en hemliknande miljö.
 
 ###2. Det har skett en stor förändring av människans livsvillkor de senaste århundradena. Hur har detta påverkat vård- och omsorgsområdet?
 Man har med bättre sophantering fått bort råttor som sprider sjukdomar. Man har upptäckt mikrobiologiska orsaker till
