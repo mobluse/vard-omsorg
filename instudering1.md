@@ -38,8 +38,8 @@ medicinska behandlingar. En person som ger sådana behandlingar kallas för kvac
 Kvacksalverilagen är borttagen men det är fortfarande olagligt med kvacksalveri, men enligt andra lagar.
 Vi lever i ett fritt land och det innebär att man kan köpa nästan vilken vård som helst för egna pengar. Dock får
 väl vårdgivare inte syssla med falsk marknadsföring. Vissa alternativmedicinska metoder har erkänts, t.ex.
-finns det nu leg. kiropratorer. Samtidigt finns det metoder inom skolmedicinen som tagits in från ovetenskaplig
-tid och som aldrig riktigt granskats.
+finns det nu leg. kiropratorer. Samtidigt finns det troligen metoder inom skolmedicinen som tagits in från ovetenskaplig
+tid och plats och som aldrig riktigt granskats.
 
 ###8. Vad är hälsa?
 Enligt världshälsoorganisationens (WHO) är hälsa "ett tillstånd av fullständigt fysiskt, psykiskt och socialt välbefinnande, 
