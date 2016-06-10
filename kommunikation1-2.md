@@ -73,7 +73,7 @@ Kan framkalla minnen då vi upplevt t.ex. lukten tidigare.
 Sinnesintrycken samverkar för att skapa en helhetsupplevelse.
 
 När människor lär sig så föredrar de ofta vissa sinnen (lärstilar) och
-detta beror också på ålder och kön.
+detta beror också på ålder och kön.  
 Visuellt: Genom att se på bilder och möjligen läsa text tyst.  
 Auditivt: Genom att höra på tal och musik.  
 Kinestetiskt: Genom att vara i rörelse och känna, t.ex. laborera.  
