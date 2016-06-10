@@ -50,6 +50,7 @@ medvetna om.
 
 Synintryck:  
 Vad fastnar i minnet?  
+
 1. Avviker från det normala
 2. Något vi medvetet sökt efter
 3. Känslomässigt engagerar oss
