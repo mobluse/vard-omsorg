@@ -74,9 +74,9 @@ Sinnesintrycken samverkar för att skapa en helhetsupplevelse.
 
 När människor lär sig så föredrar de ofta vissa sinnen (lärstilar) och
 detta beror också på ålder och kön.
-Visuellt: Genom att se på bilder och möjligen läsa text tyst.
-Auditivt: Genom att höra på tal och musik.
-Kinestetiskt: Genom att vara i rörelse och känna, t.ex. laborera.
+Visuellt: Genom att se på bilder och möjligen läsa text tyst.  
+Auditivt: Genom att höra på tal och musik.  
+Kinestetiskt: Genom att vara i rörelse och känna, t.ex. laborera.  
 Taktilt: Genom att känna (ganska likt kinestetiskt). Små barn använder
 detta först. Pojkar i grundskolan är mer kinestetiska och taktila än
 visuella och auditiva. Om elever får använda de lärstilar de föredrar
