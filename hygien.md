@@ -1,15 +1,17 @@
 1.
-Normalflora: bakterier och svampar vi har på vår kropp som skyddar oss mot sjukdomar och skadliga bakterier.
+* Normalflora: bakterier och svampar vi har på vår kropp som skyddar oss mot sjukdomar och skadliga bakterier.
 
-Basala hygienrutiner:  
-Sköljrummet:  
-Städning:  
-Smutstvätt och avfall:  
+* Basala hygienrutiner:  
+..* Sköljrummet:  
+..* Städning:  
+..* Smutstvätt och avfall:  
 
-Desinfektion:  
-Värmedesinfektion:  
-Kemisk desinfektion:  
-Sterilisering:  
+* Smittspridning:
+
+* Desinfektion:  
+..* Värmedesinfektion:  
+..* Kemisk desinfektion:  
+..* Sterilisering:  
 
 2.
 Vårdrelaterade infektioner: "Varje infektionstillstånd som drabbar patienter till följd av sjukhusvistelse 
@@ -22,8 +24,9 @@ Med vårdrelaterad infektion avses även infektionstillstånd som personal ådra
 Multiresistenta bakterier:  
 
 Fall 1:  
-Livsmedelshygien
-
-Maginfektion
+* Livsmedelshygien
+* Maginfektion
+* Kräk
 
 Fall 2:  
+ESBL
