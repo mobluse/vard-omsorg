@@ -2,6 +2,13 @@
 * Normalflora: Bakterier och svampar vi har på vår kropp som skyddar oss mot sjukdomar och skadliga bakterier.
 
 * Basala hygienrutiner:  
+  * Handhygien - handdesinfektion och handtvätt
+  * Handskar
+  * Skyddskläder till exempel engångs plastförkläde eller patientbunden skyddsrock
+  * Klädregler
+    * Arbetskläder
+    * Hår
+    * Smycken, naglar med mera
   * Sköljrummet: Det finns en smutsig och en ren sida och saker måste rengöras innan de flyttas från den smutsiga till den rena.
   * Städning: Man skall städa uppifrån och ner och våttorka golv.
   * Smutstvätt och avfall: Man skall förvara smutstvätt i täta påsar och t.ex. inte torka blöt smutstvätt, ty då kan bakterier övergå i sporform och spridas i luften.
