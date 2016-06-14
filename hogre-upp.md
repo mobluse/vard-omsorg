@@ -3,7 +3,7 @@
 * Hur förflyttar vi en vårdtagare/brukare högre upp i sängen med en vårdgivare samt med 2 vårdgivare?
   1. Fråga vårdtagare
   2. Tag reda på vilka hjälpmedel som finns.
-  3. Plana ut sängen och ställ in rätt arbetshöjd.
+  3. Plana ut sängen och ställ in rätt arbetshöjd. http://www.vardhandboken.se/Texter/Arbetsteknik-och-forflyttningskunskap/Hogre-upp-i-sangen/
 * Vad säger arbetsmiljölagen angående arbetsgivarens ansvar vid ergonomi och hjälpmedel?
   * Arbetsgivaren har skyldighet att tillhandahålla de arbetstekniska hjälpmedel som behövs i vårdarbetet, och arbetstagaren är skyldig att använda de hjälpmedel som finns.
   * Arbetsgivaren ansvarar för utbildningen om de arbetstekniska hjälpmedlen, och arbetstagaren är skyldig att känna till hur de används, rengörs och underhålls för att vårdarbetet ska kunna utföras på ett säkert sätt. http://www.vardhandboken.se/Texter/Hjalpmedel-vid-fysiska-funktionsnedsattningar/Olika-typer/
