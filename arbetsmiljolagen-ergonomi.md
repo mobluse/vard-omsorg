@@ -24,7 +24,7 @@ _Utgå från din arbetsmiljö på skolan och gör upp en plan på vad som är vi
 arbetsmiljö på just den här arbetsplatsen (Skolan). Detta gör du med hjälp av SAM som står för
 Systematiskt arbetsmiljöarbete. Beskriv vad som är viktigt att tänka på när det gäller den fysiska,
 sociala och psykologiska arbetsförhållandena._  
-http://www.av.se/sam/  
+https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbeta-med-arbetsmiljon/systematiskt-arbetsmiljoarbete-sam/  
 http://www.prevent.se/bransch/utbildning/arbetsmiljo-i-friskolan/
 
 ##Ergonomi
