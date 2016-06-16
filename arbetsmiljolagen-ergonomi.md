@@ -45,9 +45,10 @@ Arbetsmiljöhjulet: undersökning, riskbedömning, åtgärder, kontroll
 * åtgärder för att minska riskerna 
 * kontroll av att åtgärderna faktiskt har bidragit till en bättre arbetsmiljö.
 
-http://www.prevent.se/bransch/utbildning/arbetsmiljo-i-friskolan/
+http://www.prevent.se/bransch/utbildning/arbetsmiljo-i-friskolan/  
 Man undersöker arbetsmiljön utifrån olika roller: t.ex. elev, lärare, lokalvårdare. Jag tar elev som exempel. Man följer en 
 elevs arbetsdag och vilka platser hen besöker. Man klassar riskerna i hårda (kroppsliga) eller mjuka (psykologiska). 
+
 * Man går upp i trappan. Risk: Att falla (hård). Åtgärd: Bättre räcke.
 * Alternativt: Man åker hiss. Risk: Man utsätts för sexuella övergrepp (hård & mjuk) eller att falskt bli beskylld för att ha utfört sexuellt övergrepp (mjuk). Åtgärd: Nödtelefon, inspelning av ljud eller bild.
 * Använder strömbrytare på grenkontakt. Risk: Kan vara trasig och man kan få en stöt (hård). Åtgärd: Kolla strömbrytarna och byt ut.
@@ -66,7 +67,7 @@ elevs arbetsdag och vilka platser hen besöker. Man klassar riskerna i hårda (k
 
 _Beskriv vad man ska tänka på vid olika arbetsställningar (belastningsergonmin), tungt kroppsarbete och repetitivt arbete._
 
-https://www.av.se/globalassets/filer/publikationer/broschyrer/belasta-ratt-sa-undivker-du-skador-broschyr-adi447.pdf
+https://www.av.se/globalassets/filer/publikationer/broschyrer/belasta-ratt-sa-undivker-du-skador-broschyr-adi447.pdf  
 Man skall förflytta tyngdpunkten i stället för att använda mycket muskelkraft. Man skall hålla tunga saker nära kroppen. Repetitivt arbete bör undvikas eftersom det leder till förslitningar även om man är vältränad. Man bör använda jobbrotation
 för att minska risk för förslitning och tristess.
 
@@ -82,6 +83,7 @@ själv välja om det ska vara från säng till rullstol eller från liggande lä
 
 http://www.vardhandboken.se/Texter/Arbetsteknik-och-forflyttningskunskap/Uppresning-till-sittande/  
 Uppresning till sittande med hjälp av två personer från ryggläge
+
 1. Flytta vid behov patienten högre upp i sängen.
 2. Stå på samma sida om sängen. Höj sängens ryggstöd för att underlätta uppresningen.
 3. Höj till cirka 75 grader, men så att det fortfarande är bekvämt för patienten.
