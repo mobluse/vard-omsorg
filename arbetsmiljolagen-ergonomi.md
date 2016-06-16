@@ -1,4 +1,8 @@
 #Arbetsmiljölagen och ergonomi
+Källor:
+* http://www.vardhandboken.se/
+* http://www.av.se/
+* http://www.prevent.se/
 
 ##Arbetsmiljölagen
 
