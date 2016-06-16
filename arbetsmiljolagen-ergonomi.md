@@ -42,3 +42,5 @@ riktigt.
 
 Du som befinner dig längre fram i utbildningen kan beskriva hur en förflyttning kan gå till, du får helt
 själv välja om det ska vara från säng till rullstol eller från liggande läge till sittande.
+
+http://www.vardhandboken.se/Texter/Arbetsteknik-och-forflyttningskunskap/Uppresning-till-sittande/
