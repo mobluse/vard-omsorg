@@ -12,7 +12,16 @@ _Det finns lagar som talar om hur din arbetsmiljö ska vara._
 _Beskriv arbetsmiljölagen och arbetstidslagen. Här kan du t.ex. svara på vad syftet ned lagen är, vem som ska leda arbetet
 mot en bättre arbetsmiljö och vem som bär det yttersta ansvaret._
 
+###Arbetsmiljölagen
 http://www.prevent.se/arbetsmiljoarbete/lagar-regler-tillsyn/lagar-och-regler/  
+* Ett mål är att förebygga ohälsa och olyckor på arbetsplatsen samt utveckla en god arbetsmiljö.
+* Arbetsmiljön skall vara acceptabel med hänsyn till arbetets natur och följa den sociala och tekniska utvecklingen i samhället.
+* Arbetsgivare och arbetstagare skall samverka för att skapa en god arbetsmiljö.
+Arbetsgivaren bär det yttersta ansvaret för arbetsmiljön. Dock har ju arbetstagarna fackliga organisationer med skyddsombud
+som bidrar till att förbättra arbetsmiljön. Skyddsombudet har befogenhet att stoppa farligt arbete.
+
+Arbetsmiljölagen kompletteras av Arbetsmiljöförordningen och Arbetsmiljöverket ger ut föreskrifter som också skall följas.
+
 http://www.prevent.se/arbetsliv/artikel/tema---ny/dygnet-runt-jobbet/sa-sager-lagen-om-arbetstider/
 
 ###Uppgift 2
