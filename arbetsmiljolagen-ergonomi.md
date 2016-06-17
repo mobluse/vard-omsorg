@@ -39,7 +39,7 @@ arbetsmiljö på just den här arbetsplatsen (Skolan). Detta gör du med hjälp 
 Systematiskt arbetsmiljöarbete. Beskriv vad som är viktigt att tänka på när det gäller den fysiska,
 sociala och psykologiska arbetsförhållandena._  
 https://www.av.se/arbetsmiljoarbete-och-inspektioner/arbeta-med-arbetsmiljon/systematiskt-arbetsmiljoarbete-sam/  
-Arbetsmiljöhjulet: undersökning, riskbedömning, åtgärder, kontroll
+Arbetsmiljöhjulet: undersökning, riskbedömning, åtgärder, kontroll, upprepa hjulet.
 * undersökning av verksamheten
 * bedömning av de risker som upptäckts vid undersökningen
 * åtgärder för att minska riskerna 
