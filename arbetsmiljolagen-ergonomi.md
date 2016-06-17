@@ -50,7 +50,7 @@ Man undersöker arbetsmiljön utifrån olika roller: t.ex. elev, lärare, lokalv
 elevs arbetsdag och vilka platser hen besöker. Man klassar riskerna i hårda (kroppsliga) eller mjuka (psykologiska). 
 
 * Man går upp i trappan. Risk: Att falla (hård). Åtgärd: Bättre räcke.
-* Alternativt: Man åker hiss. Risk: Man utsätts för sexuella övergrepp (hård & mjuk) eller att falskt bli beskylld för att ha utfört sexuellt övergrepp (mjuk). Åtgärd: Nödtelefon, inspelning av ljud eller bild.
+* Alternativt: Man åker hiss. Risk: Man utsätts för övergrepp (hård & mjuk) eller att falskt bli beskylld för att ha utfört övergrepp (mjuk). Åtgärd: Nödtelefon, inspelning av ljud eller bild. Kolla brottsregister för alla.
 * Använder strömbrytare på grenkontakt. Risk: Kan vara trasig och man kan få en stöt (hård). Åtgärd: Kolla strömbrytarna och byt ut.
 * Råkar lämna något obevakat. Risk: Stöld (mjuk). Åtgärd: Övervakningskameror och kolla brottsregister för alla. Övervaka inpassering.
 * Tar blodprov. Risk: Någon nyser i det öppna såret och man kan smittas med multiresistenta bakterier (hård). Åtgärd: Testa alla elever och personal.
@@ -59,6 +59,8 @@ elevs arbetsdag och vilka platser hen besöker. Man klassar riskerna i hårda (k
 * Överallt. Risk: Man kan mobbas och skadas p.g.a. detta (mjuk & hård). Åtgärd: Patrullera skolan.
 * I datorsalen. Risk: Man kan råka välta ner en dator som går sönder (mjuk). Åtgärd: Se till att bord är stabila.
 * Överallt. Risk: Brand (hård). Åtgärd: Ha brandlarm och släckningsutrustning.
+* Människor pratar. Risk: Buller. Åtgärd: Ljudnivåmätare.
+* Solinstrålning och uppvärmning. Risk: Hög temperatur. Ågärd: Termometer som varnar.
 
 ##Ergonomi
 
