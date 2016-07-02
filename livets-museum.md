@@ -19,7 +19,7 @@ På vissa surfplattor finns korta e-böcker.
 Exempel på e-bok som jag läste. Höftluxation innebär att barnets höftleder lätt hoppar ur led. Det är vanligare hos flickor. Man kan bota det genom att barnet ligger i en speciell skena: von Rosen-skena som uppfanns av malmöprofessorn Sophus von Rosen.
 
 ## Hjärnans biograf
-Det finns en liten biograf i en hiss. Där kan man se fyra filmer:
+Det finns en liten biograf i en hiss. Där kan såg jag fyra filmer:
 * Hjärnans utveckling 7:22
 * Pannlobsdemens 7:54
 * Alzheimers sjukdom 11:05
