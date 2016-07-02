@@ -21,7 +21,7 @@ b) Det kan börja brinna kraftigt eller explodera.
 c) P.g.a. explosionsrisken måste de vidta säkerhetsåtgärder om de behöver rycka ut.  
 
 ##Äldre och läkemedel
-1.
+1.  
 Delegering från sjuksköterska till exempelvis undersköterska är enligt Socialstyrelsens föreskrifter (SOSFS 2000:1) inte möjligt avseende läkemedel inom sluten vård eller ambulanssjukvård.
 
  Inom annan hälso- och sjukvård får delegering av iordningställande eller administrering av läkemedel göras under vissa förutsättningar.
@@ -30,7 +30,7 @@ Delegering från sjuksköterska till exempelvis undersköterska är enligt Socia
 
  Se Socialstyrelsens föreskrifter och allmänna råd om läkemedelshantering i hälso- och sjukvården (SOSFS 2000:1) och Socialstyrelsens föreskrifter om delegering av arbetsuppgifter inom hälso- och sjukvård och tandvård (SOSFS 1997:14).
  
-2.
+2.  
  a) per os eller peroralt: genom munnen  
  b) sublingualt  
  c) rektalt  
@@ -39,21 +39,21 @@ Delegering från sjuksköterska till exempelvis undersköterska är enligt Socia
  f) utvärtes  
  g) subkutant  
  
-3.
+3.  
 Bipacksedel eller http://www.fass.se/.
  
-4.
+4.  
 Läkemedel interagerar med varandra:
  
-5.
+5.  
 Hur utsöndras läkemedel ur kroppen:  
 Skillnader mellan ung och äldre:
  
-6.
+6.  
 Vad kan du som undersköterska göra för att hjälpa en vårdtagare att ta sin medicin?
  
-7.
+7.  
 Hur gör du om en vårdtagare inte vill ta sin medicin?
  
-8.
+8.  
 Vad gör du om en vårdtagare kräks en halvtimme efter medicineringen?
