@@ -32,12 +32,12 @@ Delegering från sjuksköterska till exempelvis undersköterska är enligt Socia
  
 2.  
  a) per os eller peroralt: genom munnen  
- b) sublingualt  
- c) rektalt  
- d) vaginalt  
- e) inhaleras  
- f) utvärtes  
- g) subkutant  
+ b) sublingualt: under tungan  
+ c) rektalt: i anus  
+ d) vaginalt: i slidan  
+ e) inhaleras: inandas  
+ f) utvärtes: smörj in på huden  
+ g) subkutant: under huden (med spruta/insulinpenna)  
  
 3.  
 Bipacksedel eller http://www.fass.se/.
