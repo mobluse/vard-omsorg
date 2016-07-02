@@ -4,7 +4,7 @@ Det som står på dosettens baksida stämmer med det som står på signeringslis
 Dosetten är *ej* delad enligt ordination. Morgonfacken är rätt. Middagsfacken skall vara tomma.
 Kvällsfacken skall innehålla 2 st. T.Alvedon 500 mg. Tabletterna till natten (T.Sobril 10 mg) skall ligga i de nedersta facken.
 
-Om jag tvekar eller hittar något fel så kontaktar jag sjuksköterskan.
+ Om jag tvekar eller hittar något fel så kontaktar jag sjuksköterskan.
 
 2.  
 Han skall vara borta en vecka 7 dagar och det är 2 dagar till avresa. Tabletterna (T.Stesolid 5 mg) skall vara i 9 dagar (7+2). 
