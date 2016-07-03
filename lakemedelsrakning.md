@@ -50,10 +50,13 @@ Hur utsöndras läkemedel ur kroppen:
 Skillnader mellan ung och äldre:
  
 6.  
-Vad kan du som undersköterska göra för att hjälpa en vårdtagare att ta sin medicin? Ordna fram vatten för att svälja tabletter.
+Vad kan du som undersköterska göra för att hjälpa en vårdtagare att ta sin medicin? Ordna fram vatten för att svälja tabletter. Får fråga sjuksköterskan om jag får dela tabletter.
  
 7.  
-Hur gör du om en vårdtagare inte vill ta sin medicin? Försöker förklara att medicinen är rekommenderad, men om det inte hjälper, kontaktar sjuksköterskan.
+Hur gör du om en vårdtagare inte vill ta sin medicin? Försöker förklara att medicinen är rekommenderad, men om det inte hjälper, kontaktar sjuksköterskan och skriver avvikelserapport.
  
 8.  
 Vad gör du om en vårdtagare kräks en halvtimme efter medicineringen? Kontaktar sjuksköterskan.
+
+##Källor
+http://www.tjorn.se/download/18.50919bf2146a75e0960b76/1403773062090/Delegeringskompendium+l%C3%A4kemedel+efter+genomg%C3%A5ngen+l%C3%A4kemedelsutbildning.pdf
