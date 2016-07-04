@@ -61,4 +61,5 @@ Hur gör du om en vårdtagare inte vill ta sin medicin? Försöker förklara att
 Vad gör du om en vårdtagare kräks en halvtimme efter medicineringen? Kontaktar sjuksköterskan.
 
 ##Källor
-http://www.tjorn.se/download/18.50919bf2146a75e0960b76/1403773062090/Delegeringskompendium+l%C3%A4kemedel+efter+genomg%C3%A5ngen+l%C3%A4kemedelsutbildning.pdf
+http://www.tjorn.se/download/18.50919bf2146a75e0960b76/1403773062090/Delegeringskompendium+l%C3%A4kemedel+efter+genomg%C3%A5ngen+l%C3%A4kemedelsutbildning.pdf  
+http://www.vardhandboken.se/  
