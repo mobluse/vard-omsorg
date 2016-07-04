@@ -43,11 +43,13 @@ Delegering från sjuksköterska till exempelvis undersköterska är enligt Socia
 Bipacksedel eller http://www.fass.se/.
  
 4.  
-Läkemedel interagerar med varandra:
+Läkemedel interagerar med varandra: Läkemedel kan påverka varandra så att de t.ex. tar ut varandra eller ger en
+starkare effekt eller värre biverkningar.
  
 5.  
-Hur utsöndras läkemedel ur kroppen:  
-Skillnader mellan ung och äldre:
+Hur utsöndras läkemedel ur kroppen: Levern och njurarna bryter ner läkemedel till galla respektive urin. Levern
+bildar även ämnen i blodet som tas upp av njurarna.
+Skillnader mellan ung och äldre: Levern och njurarna kan fungera sämre på äldre så att de bryter ner läkemedel långsammare.
  
 6.  
 Vad kan du som undersköterska göra för att hjälpa en vårdtagare att ta sin medicin? Ordna fram vatten för att svälja tabletter. Får fråga sjuksköterskan om jag får dela tabletter.
