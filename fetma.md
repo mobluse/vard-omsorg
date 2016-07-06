@@ -18,7 +18,7 @@
  * Simning & Vattengympa, mer skonsamt för lederna
  * Beteendeförändring motion, s. 166
 * Preventiva åtgärder: Samhällsnivå
- * Skatteavdrag hos företag för friskvård
+ * Skatteavdrag hos företag för friskvårdsbidrag
  * Innehållsförteckning och näringsdeklaration
  * Sockerskatt (förslag)
  * Gränsvärde för transfetter
