@@ -56,9 +56,22 @@ Att hon varit snabb i tanken tyder på _intelligens och kreativitet_ vid normala
 Hon kan kanske _utveckla hobbyer_ mer. Hon är förmodligen datorintresserad eftersom hon jobbar som IT-ansvarig. Hon verkar
 också vara intresserad av träning. Hon kan kanske kombinera dessa intressen och utveckla appar för träning.
 
-Hon verkar säga att hon ökat träningen för att klara arbetsbelastningen och det tyder på inre _locus of control_, men
+Hon verkar säga att hon ökat träningen för att klara arbetsbelastningen och det tyder på _inre "locus of control"_, men
 hård träning kanske inte leder till egna tankar. Hon upplever att hon inte kan påverka sin arbetssituation eftersom hon jobbar 
-i en stor organisation.
+i en stor organisation. Hon har alltså även ett _yttre "locus of control"_.
+
+Allt tyder på att hon har _god impulskontroll_.
+
+Hon motionerar ju regelbundet vilket tyder på _hög aktivitet och energi_. Hon har bra förutsättningar för att ta tag i sin 
+situation.
+
+Just nu verkar det som om hon inte har så mycket _optimism och framtidstro_. Att organisationen är politiskt styrd är ingen
+nackdel eftersom det innebär att hon kan vända sig till politiker för att få igenom övergripande förändringar. Hjälper inte
+detta kan man påverka väljarna med t.ex. insändare eller blogginlägg som kan vara anonyma. Hon skulle också kunna kontakta
+facket för att ta upp sin arbetssituation. Dessutom kan man ju som IT-ansvarig ta fram förslag till nya IT-system som 
+underlättar arbetet och den tekniska utvecklinge gör att datorerna blir snabbare för varje datorgeneration. Det är alltså
+möjligt att ha framtidstro i detta jobb. Att vara IT-ansvarig i sjukvården borde kunna vara ett meningsfullt arbete,
+ty sjukvården leder ju till hälsa och trygghet för många. Hon borde bli påmind om dessa möjligheter med hennes arbete.
 
 Enligt bilden verkar hon ha vigselring och då borde hennes man kunna uppfylla några av omgivningsfaktorerna (yttre faktorer): t.ex.
 
