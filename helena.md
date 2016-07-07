@@ -10,10 +10,10 @@ dagar i veckan och har dessutom ökat träningen för att orka med den allt tuff
 lunch tillsammans med någon arbetskamrat som hon samtidigt kan prata jobb med. På kvällarna är hon, trots träningen, så trött 
 att hon tackar nej till att umgås med sina vänner. Trots sin trötthet så har Helena svårt att sova om nätterna.
 
-Läs om: _Erikssons hälsokors_, _Aron Antonovskys KASAM_, *Maslows behovstrappa* och *WHO:s*, *Nordenfelts* och *Britt 
-Johanssons definition av hälsa*.
+Läs om: __Erikssons hälsokors__, __Aron Antonovskys KASAM__, __Maslows behovstrappa__ och __WHO:s__, __Nordenfelts__ och __Britt 
+Johanssons definition av hälsa__.
 
 * Hur kan välbefinnandet och livskvalitet värderas i ovanstående case?
-* Var befinner sig Helena på Katie Erikssons *Hälsokors*?
-* På vilket sätt kan man öka Helenas *KASAM*?
-* Vilka behov måste vara tillfredsställda för att Helena ska uppleva hälsa och välbefinnande utifrån Maslows *behovstrappa*?
+* Var befinner sig Helena på Katie Erikssons _Hälsokors_?
+* På vilket sätt kan man öka Helenas _KASAM_?
+* Vilka behov måste vara tillfredsställda för att Helena ska uppleva hälsa och välbefinnande utifrån Maslows _behovstrappa_?
