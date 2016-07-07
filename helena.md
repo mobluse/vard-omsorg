@@ -110,20 +110,20 @@ sätt skulle kunna vara sjukskrivning, men man skulle behöva följa upp om det 
 företagshälsovården eller annan sjukvård för att få råd och eventuella mediciner. När man väl är utvilad kan man
 lättare ta itu med problemen som ledde till stressen.
 
-_Trygghet och säkerhet_: Hon skulle kunna ha rutiner i vardagen, t.ex. rutiner för sänggåendet.
+__Trygghet och säkerhet__: Hon skulle kunna ha rutiner i vardagen, t.ex. rutiner för sänggåendet.
 
-_Kärlek och gemenskap_: Detta handlar om uppväxtåren, men var troligen bra i Helenas fall eftersom hon hade hälsa tidigare.
+__Kärlek och gemenskap__: Detta handlar om uppväxtåren, men var troligen bra i Helenas fall eftersom hon hade hälsa tidigare.
 
-_Uppskattning och accepterande_: Hon lunchar med kollegor, men hon ses kanske inte av sin chef.
+__Uppskattning och accepterande__: Hon lunchar med kollegor, men hon ses kanske inte av sin chef.
 
-_Självbestämmande och självkontroll_: Hon anser att hon inte kan påverka sin egen arbetssituation, men jag har tidigare
+__Självbestämmande och självkontroll__: Hon anser att hon inte kan påverka sin egen arbetssituation, men jag har tidigare
 visat vid KASAM angående _optimism och framtidstro_ samt _klart definierade gränser och normsystem_ att hon har en hel del möjligheter via fack och politiska partier, ty det är en politiskt styrd organisation.
 
-_Meningsfull aktivitet_: Hennes jobb bör ju ha en mening för samhället, ty annars borde det inte finansieras av 
+__Meningsfull aktivitet__: Hennes jobb bör ju ha en mening för samhället, ty annars borde det inte finansieras av 
 skattebetalarna, men hon kan ju tycka att det finns andra som kan utföra hennes jobb bättre. Under KASAM angående 
 _utveckla hobbyer_ fanns förslag på en hobby för henne.
 
-_Självförverkligande_: Om hon kommer igenom den nuvarande krisen utan att bli av med jobbet eller bli långtidssjukskriven
+__Självförverkligande__: Om hon kommer igenom den nuvarande krisen utan att bli av med jobbet eller bli långtidssjukskriven
 så kan hon uppleva självförverkligande på jobbet eller på fritiden. Detta kallas en trappa eftersom man måste nå de
 tidigare trappstegen innan man kan nå nästa. Dock varierar hur högt man kommer under livet, enligt denna teori som
 vidareutvecklats till Kendricks behovspyramid.
