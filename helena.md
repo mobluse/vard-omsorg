@@ -82,7 +82,7 @@ Just nu verkar det som om hon inte har så mycket _optimism och framtidstro_. At
 nackdel eftersom det innebär att hon kan vända sig till politiker för att få igenom övergripande förändringar. Hjälper inte
 detta kan man påverka väljarna med t.ex. insändare eller blogginlägg som kan vara anonyma. Hon skulle också kunna kontakta
 facket för att ta upp sin arbetssituation. Dessutom kan man ju som IT-ansvarig ta fram förslag till nya IT-system som 
-underlättar arbetet och den tekniska utvecklinge gör att datorerna blir snabbare för varje datorgeneration. Det är alltså
+underlättar arbetet och den tekniska utvecklingen gör att datorerna blir snabbare för varje datorgeneration. Det är alltså
 möjligt att ha framtidstro i detta jobb. Att vara IT-ansvarig i sjukvården borde kunna vara ett meningsfullt arbete,
 ty sjukvården leder ju till hälsa och trygghet för många. Hon borde bli påmind om dessa positiva möjligheter med hennes
 arbete.
@@ -152,7 +152,7 @@ som bidrar till att förbättra arbetsmiljön. Skyddsombudet har befogenhet att 
 
 Arbetsmiljölagen kompletteras av Arbetsmiljöförordningen och Arbetsmiljöverket ger ut föreskrifter som också skall följas.
 
-I Helenas fall betyder detta att hon kan diskutera sin arbetssituation med skyddsombudet.
+I _Helenas_ fall betyder detta att hon kan diskutera sin arbetssituation med chefen och skyddsombudet.
 
 **Arbetstidslagen** innehåller bestämmelser om arbetstidens längd och förläggning.
 http://www.prevent.se/arbetsliv/artikel/tema---ny/dygnet-runt-jobbet/sa-sager-lagen-om-arbetstider/  
@@ -160,5 +160,5 @@ Syftet med arbetstidslagen är troligen att göra arbetet säkrare tack vare mer
 den långsiktiga hälsan. T.ex. brukar långfärdsbussars dokument kontrolleras i tullen så att busschaufförer har vilat
 tillräckligt mycket.
 
-I Helenas fall betyder detta att hon borde kanske inte ta en snabb lunch. På lunchen kan hon vistas ute i solljus
+För _Helena_ betyder detta att hon borde kanske inte ta en snabb lunch. På lunchen kan hon vistas ute i solljus
 och får då bättre sömn. Om hon motionerar på lunchen kan hon minska på träningen. Hon kanske jobbar för mycket övertid.
