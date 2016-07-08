@@ -26,7 +26,8 @@ Jag utgår i mitt svar från att läsaren har kunskaper motsvarande kursboken H�
 WHO:s definition av hälsa: "ett tillstånd av fullkomligt fysiskt, psykiskt och socialt välbefinnande,
 inte endast frånvaro av sjukdom och funktionsnedsättning".
 
-Britt Johansson lägger till dimensionerna kulturellt och andligt, samt hade en något annorlunda defintion av hälsa.
+Britt Johansson lägger till dimensionerna kulturellt och andligt, samt har en något annorlunda defintion av hälsa. Enligt
+Nordenfelt kan personer med samma fysiska och psykiska status ha olika hälsa beroende på att de har olika mål.
 
 Helena, i detta fall, verkar ha låg livskvalitet eftersom hon är så trött att hon tackar nej till att göra det hon normalt
 gjorde tidigare: 
