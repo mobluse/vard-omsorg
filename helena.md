@@ -23,15 +23,25 @@ __Britt Johanssons definition av hälsa__.
 ##Svar
 Jag utgår i mitt svar från att läsaren har kunskaper motsvarande kursboken Hälsopedagogik.
 
-Helena verkar ha låg livskvalitet eftersom hon är så trött att hon tackar nej till att göra det hon normalt gjorde tidigare: 
+WHO:s definition av hälsa: "ett tillstånd av fullkomligt fysiskt, psykiskt och socialt välbefinnande,
+inte endast frånvaro av sjukdom och funktionsnedsättning".
+
+Britt Johansson lägger till dimensionerna kulturellt och andligt, samt hade en något annorlunda defintion av hälsa.
+
+Helena, i detta fall, verkar ha låg livskvalitet eftersom hon är så trött att hon tackar nej till att göra det hon normalt
+gjorde tidigare: 
 att umgås med sina vänner. Välbefinnandet verkar också vara lågt eftersom hennes goda minne och snabbhet i tanken har
 försämrats.
 
 Helena verkar vara kroppsligt frisk eftersom hon klarar att träna fyra dagar i veckan och dessutom ökar träningen. Det
-försämrade minnet beror troligen på stress och sömnbrist och inte på någon demenssjukdom. Hon är alltså medicinskt frisk, men mår dåligt och befinner sig alltså i A på Hälsokorset.
+försämrade minnet beror troligen på stress och sömnbrist och inte på någon demenssjukdom. Hon är alltså medicinskt frisk, men 
+mår dåligt och befinner sig alltså i A på Hälsokorset.
 
-Enligt KASAM-teorin finns det 17 stärkande faktorer: 10 individfaktorer (inre faktorer) och 7 omgivningsfaktorer (yttre
-faktorer).
+KASAM btyder Känsla Av SAMmanhang och Antonovsky upptäckte att de som klarat av många svåra
+situationer, t.ex. Förintelsen, hade KASAM. Om man utgår från friskfaktorer så har man ett salutogent synsätt.
+
+Enligt KASAM-teorin finns det 17 stärkande faktorer (friskfaktorer): 10 individfaktorer (inre faktorer) 
+och 7 omgivningsfaktorer (yttre faktorer).
 
 ###Individfaktorer
 
@@ -99,18 +109,21 @@ Det är alltid en fördel att ha _positiva föräldra- och barnrelationer_, men 
 Om det är _klara förhållningsregler i hemmet_ framgår inte heller.
 
 ###Maslows behovstrappa
+Maslows behovstrappa utgår från en humanistisk människosyn, d.v.s. att människan är ett subjekt med förnuft, 
+fri vilja och eget ansvar.
 
 __Fysiologiska behov__: Helena lider troligen av sömnbrist. Hon har kanske hamnat i en ond spiral där stress
 leder till sömnsvårigheter, vilka leder till dåligt minne och långsamhet, vilka leder till ökad stress och ökade 
-sömnsvårigheter o.s.v. Man bör först prova tips för god sömn i några dagar: t.ex. slopa koffein efter ca kl. 17
-och dricka kamomillte på kvällen. Att badda pannan med något kallt kan hjälpa. Att skriva ner sina bekymmer.
-Att spela logiska spel, t.ex. fyra i rad på handdator, tröttar ut frontalloben och man somnar lättare. I vissa fall
-hjälper inte detta. Ett sätt att då bryta denna onda spiral skulle kunna vara sömnmedicin i några dagar. Ett annat
-sätt skulle kunna vara sjukskrivning, men man skulle behöva följa upp om det hjälper. Hon skulle kunna kontakta
-företagshälsovården eller annan sjukvård för att få råd och eventuella mediciner. När man väl är utvilad kan man
-lättare ta itu med problemen som ledde till stressen.
+sömnsvårigheter o.s.v. Man bör först prova tips för god sömn i några dagar: t.ex. vistas i dagsljus under lunchen,
+slopa koffein efter ca kl. 17 och dricka kamomillte på kvällen. Att badda pannan med något kallt kan hjälpa. 
+Att skriva ner sina bekymmer. Att spela logiska spel, t.ex. fyra i rad på handdator, tröttar ut frontalloben och man 
+somnar lättare. I vissa fall hjälper inte detta. Ett sätt att då bryta denna onda spiral skulle kunna vara sömnmedicin 
+i några dagar. Ett annat sätt skulle kunna vara sjukskrivning, men man skulle behöva följa upp om det hjälper. 
+Hon skulle kunna kontakta företagshälsovården eller annan sjukvård för att få råd och eventuella mediciner. 
+När man väl är utvilad kan man lättare ta itu med problemen som ledde till stressen.
 
-__Trygghet och säkerhet__: Hon skulle kunna ha rutiner i vardagen, t.ex. rutiner för sänggåendet.
+__Trygghet och säkerhet__: Hon skulle kunna ha rutiner i vardagen, t.ex. rutiner för sänggåendet. Hon skulle kanske kunna 
+motionera lite under lunchen.
 
 __Kärlek och gemenskap__: Detta handlar om uppväxtåren, men var troligen bra i Helenas fall eftersom hon hade hälsa tidigare.
 
@@ -127,3 +140,24 @@ __Självförverkligande__: Om hon kommer igenom den nuvarande krisen utan att bl
 så kan hon uppleva självförverkligande på jobbet eller på fritiden. Detta kallas en trappa eftersom man måste nå de
 tidigare trappstegen innan man kan nå nästa. Dock varierar hur högt man kommer under livet, enligt denna teori som
 vidareutvecklats till Kendricks behovspyramid.
+
+###Arbetsmiljölagen
+http://www.prevent.se/arbetsmiljoarbete/lagar-regler-tillsyn/lagar-och-regler/  
+* Ett mål är att förebygga ohälsa och olyckor på arbetsplatsen samt utveckla en god arbetsmiljö.
+* Arbetsmiljön skall vara acceptabel med hänsyn till arbetets natur och följa den sociala och tekniska utvecklingen i samhället.
+* Arbetsgivare och arbetstagare skall samverka för att skapa en god arbetsmiljö.
+Arbetsgivaren bär det yttersta ansvaret för arbetsmiljön. Dock har ju arbetstagarna fackliga organisationer med skyddsombud
+som bidrar till att förbättra arbetsmiljön. Skyddsombudet har befogenhet att stoppa farligt arbete.
+
+Arbetsmiljölagen kompletteras av Arbetsmiljöförordningen och Arbetsmiljöverket ger ut föreskrifter som också skall följas.
+
+I Helenas fall betyder detta att hon kan diskutera sin arbetssituation med skyddsombudet.
+
+**Arbetstidslagen** innehåller bestämmelser om arbetstidens längd och förläggning.
+http://www.prevent.se/arbetsliv/artikel/tema---ny/dygnet-runt-jobbet/sa-sager-lagen-om-arbetstider/  
+Syftet med arbetstidslagen är troligen att göra arbetet säkrare tack vare mer utvilade arbetare, men också att förbättra 
+den långsiktiga hälsan. T.ex. brukar långfärdsbussars dokument kontrolleras i tullen så att busschaufförer har vilat
+tillräckligt mycket.
+
+I Helenas fall betyder detta att hon borde kanske inte ta en snabb lunch. På lunchen kan hon vistas ute i solljus
+och får då bättre sömn. Om hon motionerar på lunchen kan hon minska på träningen. Hon kanske jobbar för mycket övertid.
