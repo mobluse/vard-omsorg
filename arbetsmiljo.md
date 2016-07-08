@@ -12,4 +12,4 @@
 6. Vilka uppgifter har ett skyddsombudet?
 7. Vilken ersättning har ett skyddsombud?
 
-Svara på frågorna med egna ord och att du i dina svar föklarar de centrala bergrepp du använder.
+Svara på frågorna med egna ord och att du i dina svar förklarar de centrala bergrepp du använder.
