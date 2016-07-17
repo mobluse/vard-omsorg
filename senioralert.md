@@ -1,5 +1,17 @@
+#SENIOR alert
+Jag har valt de tre områdena undernäring, munhälsa och trycksår.
+
 ##Undernäring
+Undernäring uppstår när man får i sig mindre energi eller näringsämnen än man förbrukar. Man minskar oftast i vikt om man är undernärd eftersom kroppen använder fettet som energikälla och den kan även bryta ner muskler för att få proteiner. Om man lider av någon infektion kan kroppen även bryta ner muskler för att få energi. 
+
+Man skall riskbedöma alla patienter inom ett dygn efter inskrivning. En metod är att räkna ut Body Mass Index. BMI=vikt i kg/(längd * längd i m). Om BMI < 20 så är patienter underviktiga, men om de är över 70 år så är de även underviktiga om BMI < 22. Man skall även ställa frågor till patienten, anhöriga och tidigare vårdenhet om patienten gått ner i vikt ofrivilligt och om patienten kan äta som vanligt, eller lider av ätsvårigheter: t.ex. aptitlöshet, tugg- och sväljningsproblem och motoriska funktionsnedsättningar. 
+
+Alla patienter som bedöms har risk för undernäring skall utredas strukturerat. Alla åtgärder för att behandla undernäringen skall journalföras. Man skall upprepa riskbedömningen om patientens tillstånd förändras.
+
+En orsak till undernäring kan vara infektion. Undernäring leder ofta till nedstämdhet.
+
 ##Munhälsa
+
 ##Trycksår
 
 
