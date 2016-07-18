@@ -4,14 +4,16 @@ Jag har valt de tre områdena undernäring, munhälsa och trycksår.
 ##Undernäring
 Undernäring uppstår när man får i sig mindre energi eller näringsämnen än man förbrukar. Man minskar oftast i vikt om man är undernärd eftersom kroppen använder fettet som energikälla och den kan även bryta ner muskler för att få proteiner. Om man lider av någon infektion kan kroppen även bryta ner muskler för att få energi. 
 
-Man skall riskbedöma alla patienter inom ett dygn efter inskrivning. En metod är att räkna ut Body Mass Index. BMI=vikt i kg/(längd * längd i m). Om BMI < 20 så är patienter underviktiga, men om de är över 70 år så är de även underviktiga om BMI < 22. Man skall även ställa frågor till patienten, anhöriga och tidigare vårdenhet om patienten gått ner i vikt ofrivilligt och om patienten kan äta som vanligt, eller lider av ätsvårigheter: t.ex. aptitlöshet, tugg- och sväljningsproblem och motoriska funktionsnedsättningar. 
+Man skall riskbedöma alla patienter inom ett dygn efter inskrivning. En metod är att räkna ut Body Mass Index. BMI=vikt i kg/(längd * längd i m). Om BMI < 20 så är patienter underviktiga, men om de är över 70 år så är de även underviktiga om BMI < 22. Man skall ställa frågor till patienten, anhöriga och tidigare vårdenhet om patienten gått ner i vikt ofrivilligt och om patienten kan äta som vanligt, eller lider av ätsvårigheter: t.ex. aptitlöshet, tugg- och sväljningsproblem och motoriska funktionsnedsättningar. 
 
 Alla patienter som bedöms har risk för undernäring skall utredas strukturerat. Alla åtgärder för att behandla undernäringen skall journalföras och vara evidensbaserade. Man skall upprepa riskbedömningen om patientens tillstånd förändras.
 
 En orsak till undernäring kan vara infektion. Undernäring leder ofta till nedstämdhet.
 
+Åtgärder mot undernäring är att servera mat patienten uppskattar och som ser aptitlig ut och uppmuntra till att äta. Det finns även näringsdrycker som tas mellan de ordinarie måltiderna. I värsta fall kan man använda matning, sondmatning eller dropp om patienten inte motsätter sig detta.
+
 ##Munhälsa
-Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och mungiporna, samt problem med implantat och tandproteser. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
+Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och mungiporna, samt problem med implantat och tandproteser. Det är viktigt med en god munhälsa för att underlätta måltider och förebygga värk och inandning (aspiration) av t.ex. matrester vilka kan orsaka lunginflammation. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
 
 Patienten har ökad risk för oral ohälsa om patienten äter mat eller dricker näringsdryck ofta, lider av dysfagi (motoriska tugg- och sväljproblem), inte orkar utföra munvård, ej förstår varför och hur munvård skall utföras, ej kan uppfatta kvaliteten på den utförda munvården, har ont i munnen, eller lider av munntorrhet. Munntorrheten kan vara en biverkning av mediciner.
 
@@ -30,6 +32,9 @@ Trycksår innebär stort lidande för patienten och stora kostnader för samhäl
 Det är obligatoriskt att göra en riskbedömning angående trycksår inom ett par timmar efter inläggning om vårdtagaren är över 70 år eller sängliggande, sittande eller rullstolsburen en stor del av dygnet. Man skall upprepa hudbedömningen varje dag på samma patientgrupper. Åtgärderna för att behandla trycksår skall journalföras.
 
 Man kan förhindra trycksår genom att avlasta området genom att t.ex. stödja på andra områden. Ett sätt är att lyfta upp hälarna genom att stödja på vaderna: "svävande hälar". Man kan också hjälpa patienten att vända sig eller byta ställning. Det finns speciella madrasser med datorstyrda pumpar som avlastar tryck. Man skall hålla huden ren genom att tvätta med tvål. Vissa salvor (t.ex. barriärkräm) hjälper också mot t.ex. fuktskada, ty fukt gör att trycksår lättare uppstår. Fuktskador och tryckskada är dock inte samma sak. Man skall tillgodose närings- och vätskebehov och sårläkning underlättas av proteinrik mat.
+
+##Information
+I samtliga dessa fall skall man informera patienten, anhöriga och efterföljande vårdgivare om hur man förebygger dessa hälsoproblem.
 
 ##Källor
 * http://senioralert.se/
