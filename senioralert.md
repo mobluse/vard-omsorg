@@ -21,6 +21,10 @@ Trycksår innebär stort lidande för patienten och stora kostnader för samhäl
 3. Fullhudsskada
 4. Djup fullhudsskada
 
+Det är obligatoriskt att göra en riskbedömning angående trycksår inom ett par timmar efter inläggning om vårdtagaren är över 70 år eller sängliggande, sittande eller rullstolsburen en stor del av dygnet. Man skall upprepa hudbedömningen varje dag på samma patientgrupper.
+
+Man kan förhindra trycksår genom att avlasta området genom att t.ex. stödja på andra områden. Ett sätt är att lyfta upp hälarna genom att stödja på vaderna: "svävande hälar". Man kan också hjälpa patienten att vända sig eller byta ställning. Det finns speciella madrasser med datorstyrda pumpar som avlastar tryck. Man skall hålla huden ren genom att tvätta med tvål. Vissa salvor (t.ex. barriärkräm) hjälper också mot t.ex. fuktskada, ty fukt gör att trycksår lättare uppstår. Fuktskador och tryckskada är dock inte samma sak. Man skall tillgodose närings- och vätskebehov och sårläkning underlättas av proteinrik mat.
+
 ##Källor
 * http://senioralert.se/
  * [Personal i vård/omsorg](http://plus.rjl.se/index.jsf?nodeId=43904&nodeType=13)
