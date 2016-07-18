@@ -13,13 +13,13 @@ En orsak till undernäring kan vara infektion. Undernäring leder ofta till neds
 Åtgärder mot undernäring är att servera mat patienten uppskattar och som ser aptitlig ut och uppmuntra till att äta. Det finns även näringsdrycker som tas mellan de ordinarie måltiderna. I värsta fall kan man använda matning, sondmatning eller dropp om patienten inte motsätter sig detta.
 
 ##Munhälsa
-Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och mungiporna, samt problem med implantat och tandproteser. Det är viktigt med en god munhälsa för att underlätta måltider och förebygga värk och inandning (aspiration) av t.ex. matrester vilka kan orsaka lunginflammation. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
+Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och mungiporna, samt problem med implantat och tandproteser. Det är viktigt med en god munhälsa för att underlätta måltider och förebygga värk och inandning (aspiration) av t.ex. matrester vilka kan orsaka lunginflammation. Talet försvåras av munntorrhet och dess följder: t.ex. krustor och hård tunga. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
 
 Patienten har ökad risk för oral ohälsa om patienten äter mat eller dricker näringsdryck ofta, lider av dysfagi (motoriska tugg- och sväljproblem), inte orkar utföra munvård, ej förstår varför och hur munvård skall utföras, ej kan uppfatta kvaliteten på den utförda munvården, har ont i munnen, eller lider av munntorrhet. Munntorrheten kan vara en biverkning av mediciner.
 
-Daglig munvård består av att inspektera munnen, borsta tänderna med tandkräm, rengöra mellan tänderna med mellanrumsborste eller tandtråd, skölja eller använda skumgummitork, återfukta med fuktspray, skölja med fluorlösning eller smörja med fluorgel. Sår i mungipan kan behandlas med fet salva.
+Daglig munvård består av att inspektera munnen, borsta tänderna med tandkräm, rengöra mellan tänderna med mellanrumsborste eller tandtråd, skölja eller använda skumgummitork, återfukta med fuktspray, skölja med fluorlösning eller smörja med fluorgel. Sår i mungipan kan behandlas med fet salva. Âven tandproteser skall rengöras.
 
-När man hjälper en patient med tandborstning bör man står snett bakom patienten. 
+Kolsyrat vatten kan minska problem med munntorrhet. När man hjälper en patient med tandborstning bör man stå snett bakom patienten. Det finns bitstöd för att undvika sammanbitning.
 
 ##Trycksår
 Trycksår innebär stort lidande för patienten och stora kostnader för samhället. Trycksår uppstår p.g.a. tryck eller tryck och skjuvning. Man vet inte exakt hur de uppstår, men det finns två teorier: från ytan och neråt, eller från muskellagret och utåt. Trycksåren delas in i 4 kategorier enligt denna skala i stigande allvarlighetsgrad:
