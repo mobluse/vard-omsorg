@@ -13,18 +13,13 @@ En orsak till undernäring kan vara infektion. Undernäring leder ofta till neds
 ##Munhälsa
 Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och munvinklarna, samt problem med tandproteser. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
 
-
-
 ##Trycksår
-Trycksår innebär stort lidande för patienten och stora kostnader för samhället. Trycksår uppstår p.g.a. tryck eller skjuvning. Man vet inte exakt hur de uppstår, men det finns två teorier: från ytan och neråt, eller från muskellagret och utåt. Trycksåren har 4 grader:
+Trycksår innebär stort lidande för patienten och stora kostnader för samhället. Trycksår uppstår p.g.a. tryck eller tryck och skjuvning. Man vet inte exakt hur de uppstår, men det finns två teorier: från ytan och neråt, eller från muskellagret och utåt. Trycksåren delas in i 4 kategorier enligt denna skala i stigande allvarlighetsgrad:
 
-1.
-2.
-3.
-4.
-
-
-
+1. Rodnad som inte bleknar vid tryck
+2. Delhudsskada
+3. Fullhudsskada
+4. Djup fullhudsskada
 
 ##Källor
 * http://senioralert.se/
