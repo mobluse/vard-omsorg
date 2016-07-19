@@ -7,3 +7,6 @@
 * Madrasskydd
 * Droppskydd (mindre blöja)
 * Ockluderingsanordning för män
+
+##Källor
+https://sv.wikipedia.org/wiki/Urininkontinens
