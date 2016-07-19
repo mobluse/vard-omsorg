@@ -15,14 +15,14 @@ En orsak till undernäring kan vara infektion. Undernäring leder ofta till neds
 ##Munhälsa
 Det finns många munhälsoproblem, t.ex. karies (hål i tänderna), tandsten, tandlossning, munntorrhet, krusta (torkat slem), sår i munnen och mungiporna, samt problem med implantat och tandproteser. Det är viktigt med en god munhälsa för att underlätta måltider och förebygga värk och inandning (aspiration) av t.ex. matrester vilka kan orsaka lunginflammation. Talet försvåras av munntorrhet och dess följder: t.ex. krustor och hård tunga. Precis som för undernäring skall man riskbedöma inom ett dygn med hjälp av Revised Oral Assessment Guide (ROAG). Åtgärderna för att förebygga eller behandla munhälsa skall vara evidensbaserade och skall journalföras.
 
-Patienten har ökad risk för oral ohälsa om patienten äter mat eller dricker näringsdryck ofta, lider av dysfagi (motoriska tugg- och sväljproblem), inte orkar utföra munvård, ej förstår varför och hur munvård skall utföras, ej kan uppfatta kvaliteten på den utförda munvården, har ont i munnen, eller lider av munntorrhet. Munntorrheten kan vara en biverkning av mediciner.
+Patienten har ökad risk för oral ohälsa om patienten äter mat eller dricker näringsdryck ofta, lider av dysfagi (motoriska tugg- och sväljproblem), inte orkar utföra munvård, ej förstår varför och hur munvård skall utföras, ej kan uppfatta kvaliteten på den utförda munvården, har ont i munnen, eller lider av munntorrhet. Munntorrheten kan orsaka permanenta tandskador och kan vara en biverkning av mediciner.
 
-Daglig munvård består av att inspektera munnen, borsta tänderna med tandkräm, rengöra mellan tänderna med mellanrumsborste eller tandtråd, skölja eller använda skumgummitork, återfukta med fuktspray, skölja med fluorlösning eller smörja med fluorgel. Sår i mungipan kan behandlas med fet salva. Âven tandproteser skall rengöras.
+Daglig munvård består av att inspektera munnen, borsta tänderna med tandkräm, rengöra mellan tänderna med mellanrumsborste eller tandtråd, skölja eller använda skumgummitork, eventuellt återfukta med fuktspray, skölja med fluorlösning eller smörja med fluorgel. Sår i mungipan kan behandlas med fet salva. Âven tandproteser skall rengöras.
 
-Kolsyrat vatten kan minska problem med munntorrhet. När man hjälper en patient med tandborstning bör man stå snett bakom patienten. Det finns bitstöd för att undvika sammanbitning.
+Kolsyrat vatten kan minska problem med munntorrhet. När man hjälper en patient med tandborstning bör man stå snett bakom patienten. Det finns bitstöd för att undvika sammanbitning och skador på vårdgivarens fingrar.
 
 ##Trycksår
-Trycksår innebär stort lidande för patienten och stora kostnader för samhället. Trycksår uppstår p.g.a. tryck eller tryck och skjuvning. Man vet inte exakt hur de uppstår, men det finns två teorier: från ytan och neråt, eller från muskellagret och utåt. Trycksåren delas in i 4 kategorier enligt denna skala i stigande allvarlighetsgrad:
+Trycksår innebär stort lidande för patienten och stora kostnader för samhället. Trycksår uppstår p.g.a. tryck, eller tryck och skjuvning. Man vet inte exakt hur de uppstår, men det finns två teorier: från ytan och neråt, eller från muskellagret och utåt -- det skulle kunna vara en kombination. Trycksåren delas in i 4 kategorier enligt denna skala i stigande allvarlighetsgrad:
 
 1. Rodnad som inte bleknar vid tryck
 2. Delhudsskada
@@ -31,7 +31,7 @@ Trycksår innebär stort lidande för patienten och stora kostnader för samhäl
 
 Det är obligatoriskt att göra en riskbedömning angående trycksår inom ett par timmar efter inläggning om vårdtagaren är över 70 år eller sängliggande, sittande eller rullstolsburen en stor del av dygnet. Man skall upprepa hudbedömningen varje dag på samma patientgrupper. Åtgärderna för att behandla trycksår skall journalföras.
 
-Man kan förhindra trycksår genom att avlasta området genom att t.ex. stödja på andra områden. Ett sätt är att lyfta upp hälarna genom att stödja på vaderna: "svävande hälar". Man kan också hjälpa patienten att vända sig eller byta ställning. Det finns speciella madrasser med datorstyrda pumpar som avlastar tryck. Man skall hålla huden ren genom att tvätta med tvål. Vissa salvor (t.ex. barriärkräm) hjälper också mot t.ex. fuktskada, ty fukt gör att trycksår lättare uppstår. Fuktskador och tryckskada är dock inte samma sak. Man skall tillgodose närings- och vätskebehov och sårläkning underlättas av proteinrik mat.
+Man kan förhindra trycksår genom att avlasta området genom att t.ex. stödja på andra områden. Ett sätt är att lyfta upp hälarna genom att stödja på vaderna: "svävande hälar". Man kan också hjälpa patienten att vända sig eller byta ställning. Det finns speciella madrasser med datorstyrda pumpar som avlastar tryck. Man skall hålla huden ren genom att tvätta med tvål. Vissa salvor (t.ex. barriärkräm) hjälper också mot t.ex. fuktskada, ty fukt gör att trycksår lättare uppstår. Fuktskador och tryckskada skall dock behandlas olika. Man skall tillgodose närings- och vätskebehov och sårläkning underlättas av proteinrik mat.
 
 ##Information
 I samtliga dessa fall skall man informera patienten, anhöriga och efterföljande vårdgivare om hur man förebygger dessa hälsoproblem.
