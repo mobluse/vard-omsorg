@@ -28,9 +28,9 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _**Ballongutvidgning**: Man går in via ett blodkärl i armen eller ljumsken och expanderar en ballong i det förträngda_
  _kranskärlet._
  _**Kranskärlsoperation/bypass**: Man byter ut förträngda delar av kranskärl mot vener från benen._
- _Propplösande medicin._ När det är mindre akut kan man använda andra mediciner t.ex. trombocythämmare_
- _(vissa innehåller acetylsalicylsyra), betablockerare (mnskar blodtrycket), blodfettssänkare,_
- _ACE-hämmare (blodkärlsutvidgare)._
+ _**Propplösande medicin**. När det är mindre akut kan man använda andra mediciner t.ex. **trombocythämmare**_
+ _(vissa innehåller acetylsalicylsyra), **betablockerare** (mnskar blodtrycket), **blodfettssänkare**,_
+ _**ACE-hämmare** (blodkärlsutvidgare)._
  
 ##Källor
 * Lektionen
