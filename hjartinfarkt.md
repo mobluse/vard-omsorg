@@ -29,7 +29,7 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _kranskärlet._
  _**Kranskärlsoperation/bypass**: Man byter ut förträngda delar av kranskärl mot vener från benen._
  _**Propplösande medicin**. När det är mindre akut kan man använda andra mediciner t.ex. **trombocythämmare**_
- _(vissa innehåller acetylsalicylsyra), **betablockerare** (mnskar blodtrycket), **blodfettssänkare**,_
+ _(vissa innehåller acetylsalicylsyra), **betablockerare** (minskar blodtrycket), **blodfettssänkare**,_
  _**ACE-hämmare** (blodkärlsutvidgare)._
  
 ##Källor
