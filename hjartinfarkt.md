@@ -6,7 +6,7 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _Hjärtinfarkt är när hjärtats kranskärl (Arteria Coronaria) blockeras av proppar. Då kan hjärtmusklerna inte_
  _blodförsörjas och det mest_
  _akuta problemet är syrebrist och delar av hjärtat kan dö. Dessutom utsöndras stresshormoner som ökar pulsen vilket_
- _ytterligare öka syrebristen._
+ _ytterligare ökar syrebristen._
 2. Hur ger du på sjukhus bästa vård och omsorg till en patient med hjärtinfarkt?
  _En patient med hjärinfarkt kan må psykiskt dåligt eftersom de ofta kommer från ett fullt friskt tillstånd till_
  _att må mycket dåligt med smärta m.m. Som undersköterska kan man ge mediciner på rätt tidpunkter och mäta blodtryck_
