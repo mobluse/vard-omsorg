@@ -8,7 +8,7 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _akuta problemet är syrebrist och delar av hjärtat kan dö. Dessutom utsöndras stresshormoner som ökar pulsen vilket_
  _ytterligare ökar syrebristen._
 2. Hur ger du på sjukhus bästa vård och omsorg till en patient med hjärtinfarkt?
- _En patient med hjärinfarkt kan må psykiskt dåligt eftersom de ofta kommer från ett fullt friskt tillstånd till_
+ _En patient med hjärtinfarkt kan må psykiskt dåligt eftersom de ofta kommer från ett fullt friskt tillstånd till_
  _att må mycket dåligt med smärta m.m. Som undersköterska kan man ge mediciner på rätt tidpunkter och mäta blodtryck_
  _och puls regelbundet och anteckna resultaten. Man skall kanske mäta dryck och urin så att patienten har rätt_
  _vätskemängd. Man får också vid behov hjälpa till med tvättning och maten. Man skall hjälpa patienten i övrigt med_
