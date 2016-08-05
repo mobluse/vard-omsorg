@@ -39,13 +39,13 @@
 ###Symptom
 * Trötthet,  anfåddhet
 * Anfådd i samband med fysisk aktivitet
-* Obstruktivitet vid förkylning o öli
+* Obstruktivitet vid förkylning o ÖLI
 * Hosta nattetid
 * Pipande o väsande andningsljud
 * Andnöd
 
 ###Astmaanfall
-* Skall alltid till sjulhus
+* Skall alltid till sjukhus
 * Hjälpa personen att andas lugnt
 * Lossa åtsittande kläder
 * Sitta framåtlutad över stolsrygg
