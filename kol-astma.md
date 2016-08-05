@@ -9,7 +9,7 @@
 * Luftrörskatarr
 * Emfysem
 
-* Diagnos
+###Diagnos
 * Anfådd
 * Slemmiga upphostningar
 * Spirometri
