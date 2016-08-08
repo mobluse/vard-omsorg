@@ -12,3 +12,11 @@ Hans Petter var en stark man som arbetade i hamnen. Han fick dagslön och den gi
 1. Beskriv tre stora reformer (förändringar) under 1900-talet som har påverkat verksamhetsområdet vård och omsorg?
 2. På vilket sätt förändrades synen på sjuka och svaga människor i samhället under 1900-talet och varför? 
 3. På vilket sätt förändrades sjukdomarna och varför? Varför var Astrids familj ofta sjuk?
+
+###Svar
+
+1. Tre stora reformer som påverkat vård och omsorg:
+ 1. Folkpensionen 1913
+ 2. Allmän sjukförsäkring 1950-talet
+ 3. Socialhjälpslagen 1957 & Socialtjänstlagen 1982
+
