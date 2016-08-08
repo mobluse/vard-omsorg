@@ -16,7 +16,7 @@ Hans Petter var en stark man som arbetade i hamnen. Han fick dagslön och den gi
 ###Svar
 
 1. Tre stora reformer som påverkat vård och omsorg:
- 1. Folkpensionen 1913
- 2. Allmän sjukförsäkring 1950-talet
- 3. Socialhjälpslagen 1957 & Socialtjänstlagen 1982
+ 1. Folkpensionen 1913: _Denna reform tillsammans med Barnavårdslagen gjorde att utackordering kunde förbjudas 1918._
+ 2. Allmän sjukförsäkring 1950-talet: _Denna reform gjorde att man inte behövde vara rik för att få god sjukvård._
+ 3. Socialhjälpslagen 1957 & Socialtjänstlagen 1982.
 
