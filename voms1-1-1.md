@@ -19,4 +19,4 @@ Hans Petter var en stark man som arbetade i hamnen. Han fick dagslön och den gi
  1. Folkpensionen 1913: _Denna reform tillsammans med Barnavårdslagen gjorde att utackordering kunde förbjudas 1918._
  2. Allmän sjukförsäkring 1950-talet: _Denna reform gjorde att man inte behövde vara rik för att få god sjukvård._
  3. Socialhjälpslagen 1957 & Socialtjänstlagen 1982.
-
+2. Den tekniska utvecklingen förbättrade ekonomin och gjorde det möjligt att ta bättre hand om sjuka och svaga. Förmodligen har sjuka och svaga med bra kontakter fått god omvårdnad även tidigare i historien av t.ex. munkar och nunnor p.g.a. deras kristna tro. En humanistisk människosyn har växt fram sedan 1700-talet och denna har vidareutvecklts till ett salutogent förhållningssätt. Att demokrati infördes i Sverige i början av 1900-talet har säkert gjort att man mer och mer tar hänsyn till sjuka och svaga eftersom alla kan bli svaga. De svaga har själva fått rösträtt.
