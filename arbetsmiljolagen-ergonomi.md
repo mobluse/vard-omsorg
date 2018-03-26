@@ -1,18 +1,18 @@
-#Arbetsmiljölagen och ergonomi
+# Arbetsmiljölagen och ergonomi
 Källor:
 * http://www.vardhandboken.se/
 * http://www.av.se/
 * http://www.prevent.se/
 
-##Arbetsmiljölagen
+## Arbetsmiljölagen
 
-###Uppgift 1
+### Uppgift 1
 _Det finns lagar som talar om hur din arbetsmiljö ska vara._
 
 _Beskriv arbetsmiljölagen och arbetstidslagen. Här kan du t.ex. svara på vad syftet ned lagen är, vem som ska leda arbetet
 mot en bättre arbetsmiljö och vem som bär det yttersta ansvaret._
 
-####Arbetsmiljölagen
+#### Arbetsmiljölagen
 http://www.prevent.se/arbetsmiljoarbete/lagar-regler-tillsyn/lagar-och-regler/  
 * Ett mål är att förebygga ohälsa och olyckor på arbetsplatsen samt utveckla en god arbetsmiljö.
 * Arbetsmiljön skall vara acceptabel med hänsyn till arbetets natur och följa den sociala och tekniska utvecklingen i samhället.
@@ -29,7 +29,7 @@ den långsiktiga hälsan. T.ex. brukar långfärdsbussars dokument kontrolleras 
 tillräckligt mycket.
 
 
-###Uppgift 2
+### Uppgift 2
 _Arbetsmiljöarbetet är otroligt viktigt. Vi ska känna oss trygga, främja hälsa och förebygga ohälsa._
 
 _I arbetsmiljön ingår fysiska, psykologiska och sociala arbetsförhållanden._
@@ -62,9 +62,9 @@ elevs arbetsdag och vilka platser hen besöker. Man klassar riskerna i hårda (k
 * Människor pratar. Risk: Buller. Åtgärd: Ljudnivåmätare.
 * Solinstrålning och uppvärmning. Risk: Hög temperatur. Ågärd: Termometer som varnar.
 
-##Ergonomi
+## Ergonomi
 
-###Uppgift 1
+### Uppgift 1
 **ergonomi**, vetenskapen om anpassning av maskiner och miljö till människans fysiska och psykiska förutsättningar.
 
 _Beskriv vad man ska tänka på vid olika arbetsställningar (belastningsergonmin), tungt kroppsarbete och repetitivt arbete._
@@ -73,7 +73,7 @@ https://www.av.se/globalassets/filer/publikationer/broschyrer/belasta-ratt-sa-un
 Man skall förflytta tyngdpunkten i stället för att använda mycket muskelkraft. Man skall hålla tunga saker nära kroppen. Repetitivt arbete bör undvikas eftersom det leder till förslitningar även om man är vältränad. Man bör använda jobbrotation
 för att minska risk för förslitning och tristess.
 
-###Uppgift 2
+### Uppgift 2
 _Ge exempel på några praktiska moment som rör just ditt yrkesval. Vad kommer du att behöva tänka
 på när du utför tungt fysiskt arbete. Vilka skador kan du förebygga genom att arbeta ergonomiskt
 riktigt._
