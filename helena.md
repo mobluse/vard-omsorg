@@ -1,8 +1,8 @@
-#Examinationsuppgift case 1:1
+# Examinationsuppgift case 1:1
 
-##Uppgift
+## Uppgift
 
-###Helena och hennes arbetssituation
+### Helena och hennes arbetssituation
 
 Helena arbetar som IT-ansvarig inom sjukvården sedan ett år tillbaka. Tjänsten fick hon i hård konkurrens med andra, trots att 
 hon inte trodde på sig själv. Den stora organisationen är politiskt styrd och Helena känner att hennes förmåga att påverka 
@@ -20,7 +20,7 @@ __Britt Johanssons definition av hälsa__.
 * På vilket sätt kan man öka Helenas _KASAM_?
 * Vilka behov måste vara tillfredsställda för att Helena ska uppleva hälsa och välbefinnande utifrån Maslows _behovstrappa_?
 
-##Svar
+## Svar
 Jag utgår i mitt svar från att läsaren har kunskaper motsvarande kursboken Hälsopedagogik.
 
 WHO:s definition av hälsa: "ett tillstånd av fullkomligt fysiskt, psykiskt och socialt välbefinnande,
@@ -44,7 +44,7 @@ situationer, t.ex. Förintelsen, hade KASAM. Om man utgår från friskfaktorer s
 Enligt KASAM-teorin finns det 17 stärkande faktorer (friskfaktorer): 10 individfaktorer (inre faktorer) 
 och 7 omgivningsfaktorer (yttre faktorer).
 
-###Individfaktorer
+### Individfaktorer
 
 Helena har troligen _god social kapacitet_ eftersom hennes vänner vill umgås med henne och hon lunchar med någon kollega.
 Hon borde därför kunna använda denna kapacitet till att t.ex. kunna samarbeta och på så sätt minska sin arbetsbörda.
@@ -87,7 +87,7 @@ möjligt att ha framtidstro i detta jobb. Att vara IT-ansvarig i sjukvården bor
 ty sjukvården leder ju till hälsa och trygghet för många. Hon borde bli påmind om dessa positiva möjligheter med hennes
 arbete.
 
-###Omgivningsfaktorer
+### Omgivningsfaktorer
 
 Som IT-ansvarig jobbar man med _att hjälpa andra_.
 
@@ -109,7 +109,7 @@ Det är alltid en fördel att ha _positiva föräldra- och barnrelationer_, men 
 
 Om det är _klara förhållningsregler i hemmet_ framgår inte heller.
 
-###Maslows behovstrappa
+### Maslows behovstrappa
 Maslows behovstrappa utgår från en humanistisk människosyn, d.v.s. att människan är ett subjekt med förnuft, 
 fri vilja och eget ansvar.
 
@@ -142,7 +142,7 @@ så kan hon uppleva självförverkligande på jobbet eller på fritiden. Detta k
 tidigare trappstegen innan man kan nå nästa. Dock varierar hur högt man kommer under livet, enligt denna teori som
 vidareutvecklats till Kendricks behovspyramid.
 
-###Arbetsmiljölagen
+### Arbetsmiljölagen
 http://www.prevent.se/arbetsmiljoarbete/lagar-regler-tillsyn/lagar-och-regler/  
 * Ett mål är att förebygga ohälsa och olyckor på arbetsplatsen samt utveckla en god arbetsmiljö.
 * Arbetsmiljön skall vara acceptabel med hänsyn till arbetets natur och följa den sociala och tekniska utvecklingen i samhället.
