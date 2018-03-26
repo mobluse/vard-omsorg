@@ -9,7 +9,7 @@ Källor:
 ### Uppgift 1
 _Det finns lagar som talar om hur din arbetsmiljö ska vara._
 
-_Beskriv arbetsmiljölagen och arbetstidslagen. Här kan du t.ex. svara på vad syftet ned lagen är, vem som ska leda arbetet
+_Beskriv arbetsmiljölagen och arbetstidslagen. Här kan du t.ex. svara på vad syftet med lagen är, vem som ska leda arbetet
 mot en bättre arbetsmiljö och vem som bär det yttersta ansvaret._
 
 #### Arbetsmiljölagen
