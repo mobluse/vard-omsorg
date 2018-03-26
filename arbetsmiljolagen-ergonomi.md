@@ -95,4 +95,4 @@ Uppresning till sittande med hjälp av två personer från ryggläge
 7. Utnyttja din kroppstyngd när du hjälper patienten att sätta sig upp...
 8. Flytta fötterna för att kunna utnyttja kroppstyngden under hela rörelsebanan.
 9. Sänk sängen omgående så att patienten får fötterna i golvet.
-10. Var uppmärksam på risken för att patienten kan glida över kante särskilt om sängen har draglakan och plast eller annat hjälpmedel med låg friktion.
+10. Var uppmärksam på risken för att patienten kan glida över kanten -- särskilt om sängen har draglakan och plast eller annat hjälpmedel med låg friktion.
