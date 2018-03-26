@@ -1,8 +1,8 @@
-#Examinationsuppgift 2:2
+# Examinationsuppgift 2:2
 
-##Uppgift
+## Uppgift
 
-###Den psykosociala arbetsmiljön och säkerheten på en arbetsplats är otroligt viktig.
+### Den psykosociala arbetsmiljön och säkerheten på en arbetsplats är otroligt viktig.
 
 1. Beskriv vilka faktorer som påverkar hur man kan skapa en bra psykosocial arbetsplats.
 2. Vilka skyldigheter och rättigheter har du på din arbetsplats?
@@ -14,7 +14,7 @@
 
 Svara på frågorna med egna ord och att du i dina svar förklarar de centrala begrepp du använder.
 
-##Svar
+## Svar
 1. 
  * Individnivå: Alla skall vara snälla mot varandra och vara toleranta mot varandras livsåskådningar. Man skall t.ex. inte frysa ut någon. Man bör lyssna på sina kollegor och ge positiv feedback.
  * Gruppnivå: Man kan ha gemensamma fikapauser för att stärka den sociala gemenskapen. Man kan också ha teambuilding-aktiviteter som gärna också förbättrar den fysiska hälsan: t.ex. drakbåtsrodd eller andra tävlingar. Man tränar då tillsammans inför tävlingen och peppar varandra. Man bör ha något system för att anmäla mobbning på arbetsplatsen och utreda dessa fall på ett rättssäkert sätt. En god estetisk arbetsmiljö kan bidra till att minska stress: t.ex. kan man ha akvarier. Fysisk träning leder till att det bildas tillväxthormon vilket även förbättrar hjärnan och därmed leder till bättre fysisk hälsa. Därför är friskvårdsbidrag från arbetsgivaren även bra för den psykosociala hälsan. Chefer bör ge positiv feedback till medarbetarna. Om medarbetarna har inflytande och delaktighet så förbättras hälsan.
