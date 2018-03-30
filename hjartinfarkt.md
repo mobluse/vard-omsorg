@@ -21,7 +21,7 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _fungerar normalt eller vad som är fel på det._
 4. Du kommer som personal i hemsjukvården hem till Kalle. Han är kallsvettig och blek och han har bröstsmärtor. Kalle har tagit två Nitroglycerin-tabletter utan effekt. Vad gör du?
  _Symptomen kan bero på hjärtinfarkt._ 
- _Jag ringer 112 och begär ambulans och håller kontakt med SOS-alarm och svarar på deras frågor och vidtar de åtgärder de._
+ _Jag ringer 112 och begär ambulans och håller kontakt med SOS-alarm och svarar på deras frågor och vidtar de åtgärder de_
  _föreslår. Det kan tänkas att patienten har propplösande medicin hemma och då skulle man kunna ge denna om det är_
  _vad ambulanssjuksköterskan rekommenderar._
 5. Det finns olika behandlingar när det gäller hjärtinfarkt. Nämn några.
