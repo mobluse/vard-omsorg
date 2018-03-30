@@ -1,4 +1,4 @@
-##Tema Hjärtinfarkt
+## Tema Hjärtinfarkt
 
 Jag har bara gått FUB och avslutar Hälsopedagogik idag.
 
@@ -32,6 +32,6 @@ Jag har bara gått FUB och avslutar Hälsopedagogik idag.
  _(vissa innehåller acetylsalicylsyra), **betablockerare** (minskar blodtrycket), **blodfettssänkare**,_
  _**ACE-hämmare** (blodkärlsutvidgare)._
  
-##Källor
+## Källor
 * Lektionen
 * http://www.1177.se/Fakta-och-rad/Sjukdomar/Hjartinfarkt/
