@@ -1,4 +1,4 @@
-##Högre upp i sängen
+## Högre upp i sängen
 
 * Hur förflyttar vi en vårdtagare/brukare högre upp i sängen med en vårdgivare samt med 2 vårdgivare?
   1. Fråga vårdtagare
