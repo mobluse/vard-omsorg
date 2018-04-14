@@ -1,6 +1,6 @@
-##Sammanfattning av kap. 1 & 2 i "Kommunikation" av Matts Dahlkwist
+## Sammanfattning av kap. 1 & 2 i "Kommunikation" av Matts Dahlkwist
 
-###1. Vad menas med kommunikation?
+### 1. Vad menas med kommunikation?
 
 Kommunikation är all kontakt mellan människor, enligt boken, men man
 kan ju egentligen kommunicera även med djur och datorer.
@@ -41,7 +41,7 @@ ge beröm direkt, ty annars har det inte en lika god effekt. Man bör
 använda rak kommunikation, d.v.s. tydligt och direkt visa vad man
 tänker och känner.
 
-###2. Våra sinnesintryck i överflöd
+### 2. Våra sinnesintryck i överflöd
 
 Det är bara en liten del av all den information som kommer in till
 hjärnan som vi blir medvetna om. Sinnesorganen för syn, hörsel, lukt,
