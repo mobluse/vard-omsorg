@@ -1,4 +1,4 @@
-##Historisk utveckling
+## Historisk utveckling
 
 Idag har Astrid besök och hon är på gott humör, två av hennes barnbarnsbarn har kommit för att gratulera Astrid på hennes 97-års dag. De tycker om att höra henne berätta om hur det var förr. Hon har varit med om många förändringar i den svenska välfärden.
 
@@ -7,13 +7,13 @@ Astrid är nu änka och bor på andra våningen i en hyreslägenhet. Hon har st�
 Hans Petter var en stark man som arbetade i hamnen. Han fick dagslön och den gick ofta till en stor förbrukning av alkohol. Hans Petter hade ett missbruk som påverkade familjen mycket och han blev ofta både aggressiv och känslomässigt instabil. Astrid berättade att skilsmässa var otänkbart under denna tid. Familjen var ofta förkylda och faran var att få lunginflammation. Det fanns inte tillräckligt med mat i hushållet och Astrids barn fick ofta somna hungriga. Astrid var hemma med barnen men arbetade då och då hemifrån med sömnad för att få lite extra pengar till mat. Astrid hade inte många släktingar kvar i livet eftersom svåra epidemier tagit mångas liv i början av 1900-talet. Tiderna var tuffa men under 1900-talet förändrades mycket.
 
  
-###Besvara frågorna:
+### Besvara frågorna:
 
 1. Beskriv tre stora reformer (förändringar) under 1900-talet som har påverkat verksamhetsområdet vård och omsorg?
 2. På vilket sätt förändrades synen på sjuka och svaga människor i samhället under 1900-talet och varför? 
 3. På vilket sätt förändrades sjukdomarna och varför? Varför var Astrids familj ofta sjuk?
 
-###Svar
+### Svar
 
 1. Tre stora reformer som påverkat vård och omsorg:
  1. Folkpensionen 1913: _Denna reform tillsammans med Barnavårdslagen gjorde att utackordering kunde förbjudas 1918._
