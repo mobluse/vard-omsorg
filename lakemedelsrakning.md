@@ -1,4 +1,4 @@
-##Läkemedelsräkning
+## Läkemedelsräkning
 1.  
 Det som står på dosettens baksida stämmer med det som står på signeringslistan.
 Dosetten är *ej* delad enligt ordination. Morgonfacken är rätt. Middagsfacken skall vara tomma.
@@ -8,11 +8,11 @@ Kvällsfacken skall innehålla 2 st. T.Alvedon 500 mg. Tabletterna till natten (
 
 2.  
 Han skall vara borta en vecka 7 dagar och det är 2 dagar till avresa. Tabletterna (T.Stesolid 5 mg) skall vara i 9 dagar (7+2). 
-Han skall ha 2 tabletter per dag: 9*2=18 tabletter behövs, men det finns bara 15, så tabletterna räcker inte.
+Han skall ha 2 tabletter per dag: 9\*2=18 tabletter behövs, men det finns bara 15, så tabletterna räcker inte.
 
 3.  
 T.Impugan 40 mg räcker i 100 dagar (100/1).  
-T.Lanacrist 0,13 mg räcker i 200 dagar (100/0.5=100*2).  
+T.Lanacrist 0,13 mg räcker i 200 dagar (100/0.5=100\2).  
 T.Trombyl räcker 50 dagar (100/2).  
 
 4.  
@@ -20,9 +20,9 @@ a) Ropar stopp.
 b) Det kan börja brinna kraftigt eller explodera.  
 c) P.g.a. explosionsrisken måste de vidta säkerhetsåtgärder om de behöver rycka ut.  
 
-##Äldre och läkemedel
+## Äldre och läkemedel
 1.  
-Delegering från sjuksköterska till exempelvis undersköterska är enligt Socialstyrelsens föreskrifter (SOSFS 2000:1) inte möjligt avseende läkemedel inom sluten vård eller ambulanssjukvård.
+Delegering från sjuksköterska till exempelvis undersköterska är enligt Socialstyrelsens föreskrifter (SOSFS 2000:1) inte möjligt avseende läkemedel inom slutenvård eller ambulanssjukvård.
 
  Inom annan hälso- och sjukvård får delegering av iordningställande eller administrering av läkemedel göras under vissa förutsättningar.
 
@@ -60,6 +60,6 @@ Hur gör du om en vårdtagare inte vill ta sin medicin? Försöker förklara att
 8.  
 Vad gör du om en vårdtagare kräks en halvtimme efter medicineringen? Kontaktar sjuksköterskan.
 
-##Källor
+## Källor
 http://www.tjorn.se/download/18.50919bf2146a75e0960b76/1403773062090/Delegeringskompendium+l%C3%A4kemedel+efter+genomg%C3%A5ngen+l%C3%A4kemedelsutbildning.pdf  
 http://www.vardhandboken.se/  
