@@ -10,7 +10,7 @@
 * Emfysem
 
 ### Diagnos
-* Anfådd
+* Andfådd
 * Slemmiga upphostningar
 * Spirometri
 * Pulm-rtg (lungröntgen)
@@ -19,7 +19,7 @@
 ### Behandling
 * Luftrörsvidgande läkemedel
 * Assisterad andningshjälp
-* O2 syrgas
+* O<sub>2</sub>/syrgas
 * Operera
 * Transplantation
 
@@ -37,8 +37,8 @@
 * Icke allergisk form
 
 ### Symptom
-* Trötthet, anfåddhet
-* Anfådd i samband med fysisk aktivitet
+* Trötthet, andfåddhet
+* Andfådd i samband med fysisk aktivitet
 * Obstruktivitet vid förkylning & ÖLI (Övre luftvägsinfektion)
 * Hosta nattetid
 * Pipande & väsande andningsljud
@@ -53,7 +53,7 @@
 * Öppna fönster för frisk luft
 
 ### Diagnos
-* PEF
+* PEF (Peak Expiratory Flow)
 * Spirometri
 * Pulm-rtg
 * Allergiutredning
