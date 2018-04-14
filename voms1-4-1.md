@@ -1,4 +1,4 @@
-##Empati och integritet
+## Empati och integritet
 Bertil bor på ett korttidsboende och du arbetar där som undersköterska. Idag ska du hjälpa honom med den personliga hygienen. Bertil vaknar och det är en främmande person i hans rum som han tidigare inte sett som frågar; Hur mår du? Har du sovit gott? Du vet inte vem personen är och varför du är i detta rum? Vem skulle inte få panik? 
 
 Bertil befinner sig i denna situation. Hur ska du som undersköterska bemöta honom så att hjälpinsatserna utförs på ett bra sätt?
