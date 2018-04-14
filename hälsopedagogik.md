@@ -34,7 +34,7 @@ om de skulle vara t.ex. bättre utbildade.
 
 ### 7. Finns kvacksalveri kvar idag?
 "Kvacksalveri är en benämning på att utan erforderliga kunskaper ge verkningslösa eller farliga medicinska eller påstått
-medicinska behandlingar. En person som ger sådana behandlingar kallas för kvacksalvare." https://sv.wikipedia.org/wiki/Kvacksalveri
+medicinska behandlingar. En person som ger sådana behandlingar kallas för kvacksalvare." https://sv.wikipedia.org/wiki/Kvacksalveri  
 Kvacksalverilagen är borttagen men det är fortfarande olagligt med kvacksalveri, men enligt andra lagar.
 Vi lever i ett fritt land och det innebär att man kan köpa nästan vilken vård som helst för egna pengar. Dock får
 väl vårdgivare inte syssla med falsk marknadsföring. Vissa alternativmedicinska metoder har erkänts, t.ex.
