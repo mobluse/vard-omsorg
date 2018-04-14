@@ -13,7 +13,7 @@
 * Anfådd
 * Slemmiga upphostningar
 * Spirometri
-* Pulm rtg
+* Pulm-rtg (lungröntgen)
 * Blodgasanalyser
 
 ### Behandling
@@ -37,11 +37,11 @@
 * Icke allergisk form
 
 ### Symptom
-* Trötthet,  anfåddhet
+* Trötthet, anfåddhet
 * Anfådd i samband med fysisk aktivitet
-* Obstruktivitet vid förkylning o ÖLI
+* Obstruktivitet vid förkylning & ÖLI (Övre luftvägsinfektion)
 * Hosta nattetid
-* Pipande o väsande andningsljud
+* Pipande & väsande andningsljud
 * Andnöd
 
 ### Astmaanfall
@@ -55,11 +55,11 @@
 ### Diagnos
 * PEF
 * Spirometri
-* Pulmrtg
+* Pulm-rtg
 * Allergiutredning
 
 ### Behandling
-* Ventolin o bricanyl b2 antagonister
+* Ventolin & bricanyl (beta-2 antagonister)
 * Pulmicort kortison
 * Singulari antiinflammatoriska
 * Atrouent antikollinergika
@@ -67,7 +67,7 @@
 
 ### Allergisk astma
 * Undvik kontakt med allergen
-* Antihistamin hindrar antikropparna f utlösa allergisk reaktion
+* Antihistamin hindrar antikropparna från att utlösa allergisk reaktion
 * Hyposensibilisering
 
 ### Behandling vid icke allergisk astma
