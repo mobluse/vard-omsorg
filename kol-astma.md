@@ -1,29 +1,29 @@
-#Kol & astma
+# Kol & astma
 
-##Kol=kronisk obstruktiv lungsjukdom
+## Kol=kronisk obstruktiv lungsjukdom
 * Inflammatorisk
 
-###Symptom
+### Symptom
 * Utvecklas långsamt
 * Upphostningar på morgonen
 * Luftrörskatarr
 * Emfysem
 
-###Diagnos
+### Diagnos
 * Anfådd
 * Slemmiga upphostningar
 * Spirometri
 * Pulm rtg
 * Blodgasanalyser
 
-###Behandling
+### Behandling
 * Luftrörsvidgande läkemedel
 * Assisterad andningshjälp
 * O2 syrgas
 * Operera
 * Transplantation
 
-###Vård och omsorg
+### Vård och omsorg
 * Rökstopp
 * Energitillskott
 * Fysisk aktivitet med vilopauser
@@ -32,11 +32,11 @@
 * Rörelseträna
 * Dränageläge
 
-##Astma
+## Astma
 * Allergisk form - mot ett främmande ämne
 * Icke allergisk form
 
-###Symptom
+### Symptom
 * Trötthet,  anfåddhet
 * Anfådd i samband med fysisk aktivitet
 * Obstruktivitet vid förkylning o ÖLI
@@ -44,7 +44,7 @@
 * Pipande o väsande andningsljud
 * Andnöd
 
-###Astmaanfall
+### Astmaanfall
 * Skall alltid till sjukhus
 * Hjälpa personen att andas lugnt
 * Lossa åtsittande kläder
@@ -52,25 +52,25 @@
 * Ge personens läkemedel
 * Öppna fönster för frisk luft
 
-###Diagnos
+### Diagnos
 * PEF
 * Spirometri
 * Pulmrtg
 * Allergiutredning
 
-###Behandling
+### Behandling
 * Ventolin o bricanyl b2 antagonister
 * Pulmicort kortison
 * Singulari antiinflammatoriska
 * Atrouent antikollinergika
 * Lomodal vid allergisk astma
 
-###Allergisk astma
+### Allergisk astma
 * Undvik kontakt med allergen
 * Antihistamin hindrar antikropparna f utlösa allergisk reaktion
 * Hyposensibilisering
 
-###Behandling vid icke allergisk astma
+### Behandling vid icke allergisk astma
 * Hantera stress
 * Inhalation 15-20 min före aktivitet
 * Undvika passiv rökning
