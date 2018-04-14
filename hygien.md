@@ -40,14 +40,14 @@ http://www.vardhandboken.se/texter/multiresistenta-bakterier/oversikt/
 * På flera håll i världen utgör multiresistenta tuberkulos-, gonorré-, salmonella och andra diarrébakterier också problem och nu ses exempel på bakterier som inte kan behandlas med något antibiotikum.
 "
 
-Fall 1:  
+### Fall 1:  
 * Livsmedelshygien
 * Maginfektion
 * Kräk
 
 Tvätta händerna och se till att även de äldre som deltar i matlagningen också gör detta. Torka upp kräket. Kontakta sjuksköterska/läkare angående prov, ty det kan vara vinterkräksjuka.
 
-Fall 2:  
+### Fall 2:  
 [ESBL](https://sv.wikipedia.org/wiki/ESBL) "ESBL står för Extended Spectrum Betalactamase (dvs betalaktamas med utvidgat spektrum) och är en beteckning på en grupp av enzymer som finns hos vissa multiresistenta bakterier. ... DNA:t som kodar för ESBL sitter på en plasmid vilket gör att resistensgenerna kan föras över mellan olika bakterier - i det här fallet gramnegativa bakterier och främst tarmbakterier."
 
 Kontakta sjuksköterska/läkare angående ESBL och få regler och behandling. Ha blöja och byta regelbundet. Uppmuntra honom att äta och dricka -- eventuellt sondmatning. Vårda trycksåret. Kanske ha en madrass som förhindrar uppkomst av nya trycksår genom att luft pumpas. Ha ett eget isolerat rum.
