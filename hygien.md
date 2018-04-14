@@ -1,10 +1,10 @@
-1.
+## 1.
 * Normalflora: Bakterier och svampar vi har på vår kropp som skyddar oss mot sjukdomar och skadliga bakterier.
 
 * Basala hygienrutiner:  
   * Handhygien - handdesinfektion och handtvätt
   * Handskar
-  * Skyddskläder till exempel engångs plastförkläde eller patientbunden skyddsrock
+  * Skyddskläder till exempel engångsplastförkläde eller patientbunden skyddsrock
   * Klädregler
     * Arbetskläder
     * Hår
@@ -24,14 +24,14 @@
   * Kemisk desinfektion: Sprit och vissa klorföreningar kan döda bakterier.
   * Sterilisering: Man köper in färdigsteriliserade saker och det står bäst före datum på förpackningen.
 
-2.
+## 2.
 Vårdrelaterade infektioner: "Varje infektionstillstånd som drabbar patienter till följd av sjukhusvistelse 
-eller behandling i öppen vård, oavsett om det sjukdomsframkallande ämnet tillförts i samband med vården
+eller behandling i öppenvård, oavsett om det sjukdomsframkallande ämnet tillförts i samband med vården
 eller härrör från patienten själv, samt oavsett om infektionstillståndet yppas under eller efter vården.
 Med vårdrelaterad infektion avses även infektionstillstånd som personal ådragit sig till följd av arbetet."
 (Socialstyrelsen 1979)
 
-3.
+## 3.
 Multiresistenta bakterier: "[Resistens](https://sv.wikipedia.org/wiki/Resistens) betyder motståndskraft och syftar oftast på levande organismers förmåga att överleva påfrestningar. Exempelvis kan bakterier bli resistenta mot antibiotika och människor kan genom vaccin bli resistenta mot vissa sjukdomar. Multiresistent kallas en bakterie som har blivit resistent mot flera typer av läkemedel." 
 http://www.vardhandboken.se/texter/multiresistenta-bakterier/oversikt/  
 * "MRSA = meticillin-resistenta Staphylococcus aureus
