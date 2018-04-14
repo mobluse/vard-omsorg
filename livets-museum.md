@@ -1,21 +1,21 @@
-##Surfplattor på [Livets Museum](https://livetsmuseum.wordpress.com/) i Lund
+## Surfplattor på [Livets Museum](https://livetsmuseum.wordpress.com/) i Lund
 
 På Livets Museum i Lund har de surfplattor i form av iPads som ger mer information.
 
-###Hjärtat
+### Hjärtat
 De har en surfplatta med ett slående hjärta. Man riktar kameran mot en tavla och sedan ser man det slående hjärtat framför
 genom skärmen (augmented reality). Man kan filma ramen ur olika vinklar och då ser man hjärtat ur olika vinklar.
 
-###Mannen
+### Mannen
 På surfplattan ser man en naken man. Man kan ta bort lager, t.ex. huden och musklerna. När man tar bort skelettet så visas hjärnan och ryggmärgen.
 
-###Kvinnan
+### Kvinnan
 På surfplattan ser man en naken kvinna. Det fungerar på samma sätt som för mannen.
 
-###E-böcker (korta)
+### E-böcker (korta)
 På vissa surfplattor finns korta e-böcker.
 
-####Höftluxation hos nyfödda
+#### Höftluxation hos nyfödda
 Exempel på e-bok som jag läste. Höftluxation innebär att barnets höftleder lätt hoppar ur led. Det är vanligare hos flickor. Man kan bota det genom att barnet ligger i en speciell skena: von Rosen-skena som uppfanns av malmöprofessorn Sophus von Rosen.
 
 ## Hjärnans biograf
