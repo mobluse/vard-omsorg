@@ -1,4 +1,4 @@
-##Personlig hygien och omvårdnad
+## Personlig hygien och omvårdnad
 
 Du ska hem till Astrid och Åke som behöver hjälp med den personliga hygienen på morgonen. Astrid har en muskelförsvagning i högra sidan av kroppen. Hon kan stödja sig på det vänstra benet utan problem men höger ben är ostadigt. Hon har också mycket svårt att använda sin högra arm. Hon behöver stöd och hjälp med sin personliga hygien, påklädning och frukost. Astrid har ofta besvär med förstoppning och har därför medicin mot det, som hon behöver hjälp av dig för att ta.
 
