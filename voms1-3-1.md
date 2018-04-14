@@ -1,4 +1,4 @@
-##Kommunikation och delegering
+## Kommunikation och delegering
 
 I denna examinationsuppgift ska du träna på kommunikation, dokumentation och delegering.
 
